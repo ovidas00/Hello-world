@@ -1,2 +1,2 @@
 This is another file. this is a file edited by github editor.
-This text was changed by the pull of git.
+This text was changed by the pull of git. this is changed by the git of local repo.
